@@ -1,0 +1,10 @@
+{
+  "name": "global-p2p-messenger",
+  "version": "1.0.0",
+  "description": "Decentralized P2P Communication App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
